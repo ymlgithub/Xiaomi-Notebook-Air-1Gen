@@ -1,6 +1,3 @@
-# I'm a Student Engineering, life and my university career is expensive and work is hard. My repositories are free, please, reward me. Thank you
-# [Reward me](https://www.paypal.me/johnnync13)<br />
-
 # Xiaomi-Notebook-Air-6200u
 
 CPU: I5-6200U <br />
@@ -14,9 +11,10 @@ HDMI video and audio <br />
 USB 3.0 <br />
 Built-in camera <br />
 Built-in mic <br />
-3. What's Not Working <br />
-Wifi Intel <br />
-Bluetooth <br />
+3. What's added.  
+屏蔽内置蓝牙芯片，CSR8510免驱<br/>
+360wifi,手机USB网络共享
+
 ## Rebuild Cache to work trackpad
 Terminal: sudo kextcache -i /
 
